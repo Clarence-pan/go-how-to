@@ -7,6 +7,7 @@ Examples
 
 <!-- EXAMPLES BEGIN -->
 - [Parallel map reduce](./parallel-map-reduce)
+- [Run external program](./run-external-program)
 - [Use RWMutext to deal read write processes](./use-RWMutext-to-deal-read-write-processes)
 - [Use atomic to incr and decr](./use-atomic-to-incr-and-decr)
 - [Use cond to wait](./use-cond-to-wait)
