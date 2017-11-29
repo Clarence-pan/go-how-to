@@ -8,10 +8,12 @@ Examples
 <!-- EXAMPLES BEGIN -->
 - [Calc files md](./calc-files-md)
 - [Calc strings md](./calc-strings-md)
+- [Compile into dll on windows and use the dll in c](./compile-into-dll-on-windows-and-use-the-dll-in-c)
 - [Create a gui window on windows](./create-a-gui-window-on-windows)
 - [Draw a image and save as png](./draw-a-image-and-save-as-png)
 - [Draw captcha](./draw-captcha)
 - [Find a string in a string array](./find-a-string-in-a-string-array)
+- [Fork a process in linux](./fork-a-process-in-linux)
 - [Parallel map reduce](./parallel-map-reduce)
 - [Run external program](./run-external-program)
 - [Sort any objects](./sort-any-objects)
