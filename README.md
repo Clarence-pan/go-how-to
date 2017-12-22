@@ -6,6 +6,7 @@ Examples
 ========
 
 <!-- EXAMPLES BEGIN -->
+- [Build a GUI application on Windows](./build-a-GUI-application-on-Windows)
 - [Calc files md](./calc-files-md)
 - [Calc strings md](./calc-strings-md)
 - [Compile into dll on windows and use the dll in c](./compile-into-dll-on-windows-and-use-the-dll-in-c)
