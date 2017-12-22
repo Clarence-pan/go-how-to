@@ -27,6 +27,7 @@ Examples
 - [Use mutex to sync](./use-mutex-to-sync)
 - [Use once to init only once](./use-once-to-init-only-once)
 - [Use regexp](./use-regexp)
+- [Use rsa to sign message and verify sign](./use-rsa-to-sign-message-and-verify-sign)
 - [Use wait group to wait multi goroutine done](./use-wait-group-to-wait-multi-goroutine-done)
 - [Wait or timeout](./wait-or-timeout)
 <!-- EXAMPLES END -->
