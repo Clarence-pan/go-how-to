@@ -19,6 +19,7 @@ Examples
 - [Fork a process in linux](./fork-a-process-in-linux)
 - [Parallel map reduce](./parallel-map-reduce)
 - [Run external program](./run-external-program)
+- [Scan a string](./scan-a-string)
 - [Sort any objects](./sort-any-objects)
 - [Sort any objects in another way](./sort-any-objects-in-another-way)
 - [Sort array](./sort-array)
