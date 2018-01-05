@@ -24,7 +24,7 @@ Examples
 - [Sort any objects in another way](./sort-any-objects-in-another-way)
 - [Sort array](./sort-array)
 - [Sort string array](./sort-string-array)
-- [Use RWMutext to deal read write processes](./use-RWMutext-to-deal-read-write-processes)
+- [Use RWMutex to deal read write processes](./use-RWMutex-to-deal-read-write-processes)
 - [Use a loop ticker  like setInterval](./use-a-loop-ticker--like-setInterval)
 - [Use atomic to incr and decr](./use-atomic-to-incr-and-decr)
 - [Use cond to wait](./use-cond-to-wait)
